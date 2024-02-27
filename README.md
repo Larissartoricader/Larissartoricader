@@ -1,6 +1,6 @@
 # Welcome to my Page
 
-After Journalism and Digital Marketing, I start to discover the beauties and challenges of the Developer world. Here you'll find a step-by-step guide to this journey.
+After Journalism and Digital Marketing, I start to discover the beauties and challenges of the Developer world. Here you'll find a step-by-step of my journey.
 
 [Welcome to my Coding-World! ](https://giphy.com/embed/SeLWE27I5LERuUkokJ)
 
