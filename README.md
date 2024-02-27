@@ -9,6 +9,8 @@ After Journalism and Digital Marketing, I start to discover the beauties and cha
 ![Frame 2](https://github.com/Larissartoricader/Larissartoricader/assets/152177654/4a1c4dbb-c903-41cc-8b9c-fe16e12bbedf) 
 New Student at NeueFische
 
+![Jessica Windoffer](https://github-readme-stats.vercel.app/api?username=Larissartoricader&hide=contribs,prs)
+
 
 ## 🧠 Skills
 - ➡️ HTML
