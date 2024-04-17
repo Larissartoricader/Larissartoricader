@@ -16,6 +16,10 @@ New Student at NeueFische
 - ➡️ HTML
 - ➡️ CSS
 - ➡️ JavaScript
+- ➡️ ReactJs
+- ➡️ NextJs
+- ➡️ Node.js
+- ➡️ MongoDB
 
 ## 📕 Latest Works
 - Travel Website
