@@ -1,4 +1,4 @@
-# Welcome to my Page
+# About Larissa Sartori-Cader
 
 With enthusiasm and discipline, I began my journey as a Web Developer independently. Post Neuefische training, I'm confident in my skills for the job market and my ability to explore new paths, enhancing my technical expertise.
 
