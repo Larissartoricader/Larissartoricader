@@ -2,14 +2,12 @@
 
 After Journalism and Digital Marketing, I start to discover the beauties and challenges of the Developer world. Here you'll find a step-by-step of my journey.
 
-[Welcome to my Coding-World! ](https://giphy.com/embed/SeLWE27I5LERuUkokJ)
-
 ## What's new here?
 
 ![Frame 2](https://github.com/Larissartoricader/Larissartoricader/assets/152177654/4a1c4dbb-c903-41cc-8b9c-fe16e12bbedf) 
-New Student at NeueFische
+Web Development Bootcamp at NeueFische ✅
 
-![Jessica Windoffer](https://github-readme-stats.vercel.app/api?username=Larissartoricader&hide=contribs,prs)
+![Larissa Sartori-Cader](https://github-readme-stats.vercel.app/api?username=Larissartoricader&hide=contribs,prs)
 
 
 ## 🧠 Skills
