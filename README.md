@@ -22,7 +22,7 @@ New Student at NeueFische
 - ➡️ MongoDB
 
 ## 📕 Latest Works
-- [herbie - Guru of Health]([url](https://github.com/Larissartoricader/Capstone))
+- [herbie - Guru of Health]([https://github.com/Larissartoricader/Capstone])
 
 ## 📫 How to reach me?
 
