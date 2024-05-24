@@ -2,13 +2,12 @@
 
 After Journalism and Digital Marketing, I start to discover the beauties and challenges of the Developer world. Here you'll find a step-by-step of my journey.
 
-## What's new here?
-
-![Frame 2](https://github.com/Larissartoricader/Larissartoricader/assets/152177654/4a1c4dbb-c903-41cc-8b9c-fe16e12bbedf) 
-Web Development Bootcamp at NeueFische ✅
-
 ![Larissa Sartori-Cader](https://github-readme-stats.vercel.app/api?username=Larissartoricader&hide=contribs,prs)
 
+
+## What's new here?
+
+Conclusion of the Web Development Bootcamp at Neuefische ✅
 
 ## 🧠 Skills
 - ➡️ HTML
@@ -18,6 +17,7 @@ Web Development Bootcamp at NeueFische ✅
 - ➡️ NextJs
 - ➡️ Node.js
 - ➡️ MongoDB
+- ➡️ Bootstrap
 
 ## 📕 Latest Works
 - [herbie - Guru of Health](https://github.com/Larissartoricader/Capstone)
