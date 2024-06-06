@@ -21,7 +21,8 @@ Conclusion of the Web Development Bootcamp at Neuefische ✅
 - ➡️ Bootstrap
 
 ## 📕 Latest Works
-- [herbie - Guru of Health](https://github.com/Larissartoricader/Capstone)
+- [herbie - Guru of Health](https://capstone-lime-gamma.vercel.app/) - JS, React, Next.js, NextAuth.js, Replicate IA API
+- [Color Theme](https://recap-4.vercel.app/) - JS, React
 
 ## 📫 How to reach me?
 
