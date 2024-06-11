@@ -23,6 +23,7 @@ Conclusion of the Web Development Bootcamp at Neuefische ✅
 ## 📕 Latest Works
 - [herbie - Guru of Health](https://capstone-lime-gamma.vercel.app/) - JS, React, Next.js, NextAuth.js, Replicate IA API
 - [Color Theme](https://recap-4.vercel.app/) - JS, React
+- [Quiz App](https://eclectic-capybara-d9ba6d.netlify.app/) - Vanilla JS
 
 ## 📫 How to reach me?
 
