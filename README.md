@@ -3,7 +3,7 @@
 
 With enthusiasm and discipline, I began my journey as a Web Developer independently. Post Neuefische training, I'm confident in my skills for the job market and my ability to explore new paths, enhancing my technical expertise.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Larissartoricader&hide=contribs,prs" alt="Larissa Sartori-Cader" width="200">
+<img src="https://github-readme-stats.vercel.app/api?username=Larissartoricader&hide=contribs,prs" alt="Larissa Sartori-Cader" width="400">
 
 ## What's new here?
 
