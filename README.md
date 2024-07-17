@@ -24,7 +24,7 @@ Conclusion of the Web Development Bootcamp at Neuefische ✅
 <img src="https://github.com/Larissartoricader/Larissartoricader/assets/152177654/f2abdf95-1e90-4d2b-bd5e-c424444dae83" alt="iPhone 14 Pro Max (2)" width="200">
 
 - [Color Theme](https://recap-4.vercel.app/) - JS, React
-- [Quiz App](https://eclectic-capybara-d9ba6d.netlify.app/) - Vanilla JS
+- [Quiz App](https://eclectic-capybara-d9ba6d.netlify.app/) / [KidzPlay Zone](https://kidsplayground-ten.vercel.app/) - Vanilla JS
 
 
 ## 📫 How to reach me?
