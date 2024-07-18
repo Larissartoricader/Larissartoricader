@@ -13,7 +13,8 @@ Conclusion of the Web Development Bootcamp at Neuefische ✅
 - ➡️ HTML
 - ➡️ CSS
 - ➡️ JavaScript
-- ➡️ ReactJs
+- ➡️ React
+- ➡️ jQuery
 - ➡️ NextJs
 - ➡️ Node.js
 - ➡️ MongoDB
