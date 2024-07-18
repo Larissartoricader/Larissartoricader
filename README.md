@@ -1,15 +1,13 @@
 
 # About Larissa Sartori-Cader
 
-With enthusiasm and discipline, I began my journey as a Web Developer independently. Post Neuefische training, I'm confident in my skills for the job market and my ability to explore new paths, enhancing my technical expertise.
-
-<img src="https://github-readme-stats.vercel.app/api?username=Larissartoricader&hide=contribs,prs" alt="Larissa Sartori-Cader" width="400">
+With enthusiasm and discipline, I began my journey as a Web Developer independently. Post Neuefische training, I'm confident in my skills for the job market and my ability to explore new paths, enhancing my technical expert
 
 ## What's new here?
 
 Conclusion of the Web Development Bootcamp at Neuefische ✅
 
-## 🧠 Skills
+## 🧠 My Tech Stack
 - ➡️ HTML
 - ➡️ CSS
 - ➡️ JavaScript
