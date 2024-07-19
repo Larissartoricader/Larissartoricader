@@ -3,6 +3,10 @@
 
 With enthusiasm and discipline, I began my journey as a Web Developer independently. Post Neuefische training, I'm confident in my skills for the job market and my ability to explore new paths, enhancing my technical expert
 
+![Larissartoricader GitHub stats](https://github-readme-stats.vercel.app/api?username=larissartoricader)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larissartoricader)](https://github.com/larissartoricader/github-readme-stats)
+
 ## What's new here?
 
 Conclusion of the Web Development Bootcamp at Neuefische ✅
