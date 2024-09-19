@@ -11,6 +11,7 @@ With enthusiasm and discipline, I began my journey as a Web Developer independen
 
 Conclusion of the Web Development Bootcamp at Neuefische ✅
 
+
 ## 🧠 My Tech Stack
 - ➡️ HTML
 - ➡️ CSS
@@ -26,11 +27,13 @@ Conclusion of the Web Development Bootcamp at Neuefische ✅
 
 ## 📕 Latest Works
 - [FitJournay](https://app-fit-journay.vercel.app/) - JavaScript, React, Next.js 14, NextAuth, React Chart.js, React Spring, Material UI (MUI).
-![Kopie!](https://github.com/user-attachments/assets/c3941b2f-8179-486d-82c8-df9fee05de91)
+<img src="https://github.com/user-attachments/assets/e9efe503-b8a0-4536-8974-454123ec795c" alt="iPhone 14 Pro Max (2)" width="200">
 
 
 - [herbie - Guru of Health](https://capstone-lime-gamma.vercel.app/) - JS, React, Next.js, NextAuth.js, Replicate IA API
-<img src="https://github.com/Larissartoricader/Larissartoricader/assets/152177654/f2abdf95-1e90-4d2b-bd5e-c424444dae83" alt="iPhone 14 Pro Max (2)" width="200">
+
+
+<img src="https://github.com/user-attachments/assets/f0728a7c-6f2d-4f38-8239-d7c805ce9bd4" alt="iPhone 14 Pro Max (2)" width="200">
 
 - [Simon Game](https://simon-jquery.vercel.app/) - JS, jQuery
 - [Color Theme](https://recap-4.vercel.app/) - JS, React
