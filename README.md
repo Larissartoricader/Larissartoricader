@@ -25,6 +25,10 @@ Conclusion of the Web Development Bootcamp at Neuefische ✅
 - ➡️ Bootstrap
 
 ## 📕 Latest Works
+- [FitJournay](https://app-fit-journay.vercel.app/) - JavaScript, React, Next.js 14, NextAuth, React Chart.js, React Spring, Material UI (MUI).
+![Kopie!](https://github.com/user-attachments/assets/c3941b2f-8179-486d-82c8-df9fee05de91)
+![Kopie!](https://github.com/user-attachments/assets/c3941b2f-8179-486d-82c8-df9fee05de91)
+
 - [herbie - Guru of Health](https://capstone-lime-gamma.vercel.app/) - JS, React, Next.js, NextAuth.js, Replicate IA API
 <img src="https://github.com/Larissartoricader/Larissartoricader/assets/152177654/f2abdf95-1e90-4d2b-bd5e-c424444dae83" alt="iPhone 14 Pro Max (2)" width="200">
 
