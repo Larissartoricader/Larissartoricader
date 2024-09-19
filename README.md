@@ -3,7 +3,8 @@
 
 With enthusiasm and discipline, I began my journey as a Web Developer independently. Post Neuefische training, I'm confident in my skills for the job market and my ability to explore new paths, enhancing my technical expert
 
-![Larissartoricader GitHub stats](https://github-readme-stats.vercel.app/api?username=larissartoricader)
+
+<img src="https://github-readme-stats.vercel.app/api?username=larissartoricader" alt="iPhone 14 Pro Max (2)" width="400">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larissartoricader)](https://github.com/larissartoricader/github-readme-stats)
 
